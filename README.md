@@ -1,4 +1,4 @@
-🎱## Bingo Card Generator & Simulator (Java)
+🎱 Bingo Card Generator & Simulator (Java)
 
 This is a simple Java-based Bingo card generator and game simulator. It builds a valid 5x5 Bingo card, prints it in a standard format, and then simulates a random number caller to check how many moves it takes to win a Bingo.
 
